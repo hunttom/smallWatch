@@ -7,8 +7,7 @@ SmallWatch is a lightweight Amazon Web Services (AWS) CloudWatch management tool
 * __delete__: Allows deletion of N-number log groups based on prefix.
 
 ## Installation
-* git clone <URL>
-* go install /path/to/directory
+*  `go install github.com/hunttom/smallWatch`
 
 ## QuickStart
 ```bash

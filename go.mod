@@ -1,4 +1,4 @@
-module smallWatch
+module  github.com/hunttom/smallWatch
 
 go 1.23.5
 
